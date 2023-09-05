@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("Novak is the champion");
 
+        System.out.println("Novak won 23 grand slams");
     }
 }
