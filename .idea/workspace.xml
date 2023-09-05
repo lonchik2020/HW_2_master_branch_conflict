@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="770e0fba-e838-4fe5-a2d4-7cc970a4cd96" name="Changes" comment="" />
+    <list default="true" id="770e0fba-e838-4fe5-a2d4-7cc970a4cd96" name="Changes" comment="changes from main merge" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +31,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "taskAddNewBranch"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -43,6 +43,57 @@
       <option name="presentableId" value="Default" />
       <updated>1693887977848</updated>
     </task>
+    <task id="LOCAL-00001" summary="added main">
+      <option name="closed" value="true" />
+      <created>1693889115921</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693889115921</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added new str in branch">
+      <option name="closed" value="true" />
+      <created>1693889912846</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693889912846</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added new str in main">
+      <option name="closed" value="true" />
+      <created>1693890389665</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1693890389665</updated>
+    </task>
+    <task id="LOCAL-00004" summary="changes from main merge">
+      <option name="closed" value="true" />
+      <created>1693892078356</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1693892078356</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added main" />
+    <MESSAGE value="added new str in branch" />
+    <MESSAGE value="added new str in main" />
+    <MESSAGE value="changes from main merge" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes from main merge" />
   </component>
 </project>
